@@ -1,4 +1,8 @@
-D 'sreweight': Reweights survey variables using external totals Use sreweight With STATA 19
+D 'goprobit2': Generalized ordered probit regression Use goprobit2 With STATA 19
 D
-F sreweight.ado
-F sreweight.sthlp
+F goprobit2.ado
+F goprobit2.sthlp
+F goprobit2_laplace_llf.ado
+F goprobit2_normal_llf.ado
+F goprobit2_sged_llf.ado
+F goprobit2_sgt_llf.ado
