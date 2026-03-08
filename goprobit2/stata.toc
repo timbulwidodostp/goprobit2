@@ -2,4 +2,4 @@
 1
 2
 3
-p sreweight Reweights survey variables using external totals Use sreweight With STATA 19
+p goprobit2 Generalized ordered probit regression Use goprobit2 With STATA 19
